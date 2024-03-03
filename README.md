@@ -4,7 +4,7 @@ Pure stack machine. Small number of instructions. There are currently 20 instruc
 # Usage
 ```
 cargo build --release
-cp target/release/virtual-asm stack_machine
+cp target/release/stack_machine stack_machine
 ./stack_machine <path>
 ```
 
