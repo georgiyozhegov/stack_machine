@@ -71,3 +71,5 @@ cmp
 jeq #equal
 jmp #notequal  ; jumps to '#notequal' because 2 != 1
 ```
+# TODO
+Add more instructions.
