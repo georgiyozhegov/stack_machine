@@ -242,7 +242,6 @@ impl Machine
                         break;
                   }
                   self.execute_(line);
-                  println!("{:?}", self.stack);
             }
       }
 
