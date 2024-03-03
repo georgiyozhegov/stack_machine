@@ -1,5 +1,5 @@
 [package]
-name = "stack_machine"
+name = "pure_stack_machine"
 version = "0.1.0"
 edition = "2021"
 authors = ["Georgiy Ozhegov <georgiyozhegov.rs@gmail.com>"]
@@ -7,7 +7,7 @@ description = "Pure stack machine."
 readme = "README.md"
 repository = "https://github.com/georgiyozhegov/stack_machine.git"
 license = "MIT"
-keywords = ["stack-machine", "asm", "stack", "machine", "virtual"]
+keywords = ["stack-machine", "asm", "stack", "machine", "vm"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
